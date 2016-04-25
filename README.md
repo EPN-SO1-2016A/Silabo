@@ -79,14 +79,14 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
   * Introducción a la materia y explicación de la metodología de trabajo.
 
 ### Clase 2 - Introducción a los SO (28/04/2016)
-  **TEORIA**
+**TEORIA**
   1. Introducción
    * ¿Qué es un SO?
    * Funciones y objetivos
    * Evolución
    * Relación con el hardware
 
-  **PRÁCTICA**
+**PRÁCTICA**
   * La interfaz gráfica de Ubuntu, 
   * Configuración de Ubuntu 
 
