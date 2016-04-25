@@ -93,102 +93,103 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 
 ### Clase 3 - Introducción a los SO (05/05/2016)
 **TEORÍA**
-  * Núcleo de un SO
+* Núcleo de un SO
 * **2. Administración de procesos**
   * Estados de un proceso
 
-  **PRÁCTICA**
+**PRÁCTICA**
   * Introducción a la línea de comandos (comandos básicos, info del sistema, apagado, manuales de ayuda)
 
 ### Clase 4 - Introducción a los SO (12/05/2016)
-  **TEORÍA**
-  * Procesos e Hilos
+**TEORÍA**
+* Procesos e Hilos
 
-  **PRÁCTICA**
+**PRÁCTICA**
   * Gestión de archivos y directorios (mkdir, cd, ls, find, mv, rm, tar)
 
 ### Clase 5 - Introducción a los SO (19/05/2016)
-  * Prueba
+* Prueba
 
 ### Clase 6 - Introducción a los SO (26/05/2016)
-  **TEORÍA**
-  * Concurrencia e interbloqueos
+**TEORÍA**
+* Concurrencia e interbloqueos
 
-  **PRÁCTICA**
+**PRÁCTICA**
   * Manipulación de texto, redireccionamiento de E/S, Tuberias
 
 ### Clase 7 - Introducción a los SO (02/06/2016)
-  **TEORÍA**
-  * Planificación de Procesos
+**TEORÍA**
+* Planificación de Procesos
   
-  **PRÁCTICA**
+**PRÁCTICA**
   * Manejo de procesos mediante la linea de comandos (top, htop, kill)
 
 ### Clase 8 - Introducción a los SO (09/06/2016)
-  * Examen      
+* Examen      
 
 ### Clase 9 - Introducción a los SO (16/06/2016)
-  **TEORÍA**
-  3. Administración de memoria
-    * Conceptos de memoria
-    * Segmentación
+**TEORÍA**
+* **3. Administración de memoria**
+  * Conceptos de memoria
+  * Segmentación
 
-  **PRÁCTICA**
+**PRÁCTICA**
   * Gestión de usuarios y grupos
   * Comandos de verificación de espacio en disco (dh, du)
 
 ### Clase 10 - Introducción a los SO (23/06/2016)
-  **TEORÍA**
-  * Paginación
-  * Memoria Virtual
+**TEORÍA**
+* Paginación
+* Memoria Virtual
 
-  **PRÁCTICA**
+**PRÁCTICA**
   * Manejo de permisos de ficheros
 
 ### Clase 11 - Introducción a los SO (30/06/2016)
-  **TEORÍA**
-  4. Gestión de archivos
-    * Estructura de directorios
-    * Operaciones con archivos
-  **PRÁCTICA**
+**TEORÍA**
+* **4. Gestión de archivos*
+  * Estructura de directorios
+  * Operaciones con archivos
+
+**PRÁCTICA**
   * Análisis del sistema de ficheros, formatear un sistema de ficheros, partición de sistema swap 
 
 ### Clase 12 - Introducción a los SO (07/07/2016)
-  **TEORÍA**
-  * Sistemas de archivos
-  * Montaje de directorios
-  * Control de acceso
+**TEORÍA**
+* Sistemas de archivos
+* Montaje de directorios
+* Control de acceso
 
-  **PRÁCTICA**
+**PRÁCTICA**
   * Instalación de Ubuntu y Windows doble booteo
 
 ### Clase 13 - Introducción a los SO (14/07/2016)
-  **TEORÍA**
-  6. Virtualización
-    * Emulación
-    * Virtualización asistida por hardware
-    * Paravirtualización
-    * Contenedores
+**TEORÍA**
+* **6. Virtualización**
+  * Emulación
+  * Virtualización asistida por hardware
+  * Paravirtualización
+  * Contenedores
 
-  **PRÁCTICA**
+**PRÁCTICA**
   * Instalación de Linux Ubuntu en máquina virtual
 
 ### Clase 14 - Introducción a los SO (21/07/2016)
-  **PRÁCTICA**
+**PRÁCTICA**
   * Comandos Linux para la red, instalación de programas mediante comandos (apt-get install, update, remove, purge) 
 
 ### Clase 15 - Introducción a los SO (28/07/2016)
-  **PRÁCTICA**
+**PRÁCTICA**
   * Instalación y configuración de Windows 10 
 
 ### Clase 16 - Introducción a los SO (04/08/2016)
-Presentaciones      
+* Presentaciones      
 
 ### Clase 17 - Introducción a los SO (11/08/2016)
-Presentaciones      
+* Presentaciones      
 
 ### Clase 18 - Introducción a los SO (18/08/2016)
-Examen      
+* Examen      
 
 ## Deberes/Proyectos
 
