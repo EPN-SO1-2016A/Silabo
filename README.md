@@ -80,6 +80,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 
 ### Clase 2 - Introducción a los SO (28/04/2016)
 **TEORIA**
+
  **1. Introducción**
    * ¿Qué es un SO?
    * Funciones y objetivos
