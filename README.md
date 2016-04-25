@@ -147,7 +147,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 
 ### Clase 11 - Introducción a los SO (30/06/2016)
 **TEORÍA**
-* **4. Gestión de archivos*
+* **4. Gestión de archivos**
   * Estructura de directorios
   * Operaciones con archivos
 
@@ -165,7 +165,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 
 ### Clase 13 - Introducción a los SO (14/07/2016)
 **TEORÍA**
-* **6. Virtualización**
+* **5. Virtualización**
   * Emulación
   * Virtualización asistida por hardware
   * Paravirtualización
