@@ -93,9 +93,9 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 
 ### Clase 3 - Introducción a los SO (05/05/2016)
 **TEORÍA**
-    * Núcleo de un SO
-  * **2. Administración de procesos**
-    * Estados de un proceso
+  * Núcleo de un SO
+* **2. Administración de procesos**
+  * Estados de un proceso
 
   **PRÁCTICA**
   * Introducción a la línea de comandos (comandos básicos, info del sistema, apagado, manuales de ayuda)
