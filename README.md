@@ -217,6 +217,13 @@ Deberes y consultas          20%
 Participación (Peerwise)   20%
 Examen                                40%
 
+## Bibliografía
+* Wolf, Gunnar (2015), Fundamentos de sistemas operativos – Primera edición. – México D.F. : Universidad. [Descargar](http://sistop.org/pdf/sistemas_operativos.pdf)
+* ANDREW S. TANENBAUM (2015), Modern Operating Systems, 4ta edición, Pearson
+* Curso de Introducción a Linux, Linux Foundation. [Ver curso](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x+1T2016/info)
+* Bellido Quintero, Enrique (2013), Instalación y actualización de sistemas operativos, Editorial CEP, S.L.
+* Bellido Quintero, Enrique (2013), Instalación y configuración de sistemas operativos, Editorial CEP, S.L
+
 ## Código de Ética
 
 ### Políticas de profesor
