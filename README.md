@@ -80,8 +80,8 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 
 ### Clase 2 - Introducción a los SO (28/04/2016)
 **TEORIA**
- 1. Introducción
-  * ¿Qué es un SO?
+ Cap. 1. Introducción
+   * ¿Qué es un SO?
    * Funciones y objetivos
    * Evolución
    * Relación con el hardware
@@ -91,9 +91,9 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
   * Configuración de Ubuntu 
 
 ### Clase 3 - Introducción a los SO (05/05/2016)
-  **TEORÍA**
-    * Núcleo de un SO
-  2. Administración de procesos
+**TEORÍA**
+  * Núcleo de un SO
+  Cap. 2. Administración de procesos
     * Estados de un proceso
 
   **PRÁCTICA**
