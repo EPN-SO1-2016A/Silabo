@@ -81,104 +81,104 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 ### Clase 2 - Introducción a los SO (28/04/2016)
   **TEORIA**
   1. Introducción
-  * ¿Qué es un SO?
-  * Funciones y objetivos
-  * Evolución
-  * Relación con el hardware
+    * ¿Qué es un SO?
+    * Funciones y objetivos
+    * Evolución
+    * Relación con el hardware
 
   **PRÁCTICA**
-    La interfaz gráfica de Ubuntu, 
-    Configuración de Ubuntu 
+  * La interfaz gráfica de Ubuntu, 
+  * Configuración de Ubuntu 
 
 ### Clase 3 - Introducción a los SO (05/05/2016)
   **TEORÍA**
-      Núcleo de un SO
-    2. Administración de procesos
-      Estados de un proceso
+    * Núcleo de un SO
+  2. Administración de procesos
+    * Estados de un proceso
 
   **PRÁCTICA**
-    Introducción a la línea de comandos (comandos básicos, info del sistema, apagado, manuales de ayuda)
+  * Introducción a la línea de comandos (comandos básicos, info del sistema, apagado, manuales de ayuda)
 
 ### Clase 4 - Introducción a los SO (12/05/2016)
   **TEORÍA**
-    Procesos e Hilos
+  * Procesos e Hilos
 
   **PRÁCTICA**
-    Gestión de archivos y directorios (mkdir, cd, ls, find, mv, rm, tar)
+  * Gestión de archivos y directorios (mkdir, cd, ls, find, mv, rm, tar)
 
 ### Clase 5 - Introducción a los SO (19/05/2016)
-  Prueba
+  * Prueba
 
 ### Clase 6 - Introducción a los SO (26/05/2016)
   **TEORÍA**
-    Concurrencia e interbloqueos
+  * Concurrencia e interbloqueos
 
   **PRÁCTICA**
-    Manipulación de texto, redireccionamiento de E/S, Tuberias
+  * Manipulación de texto, redireccionamiento de E/S, Tuberias
 
 ### Clase 7 - Introducción a los SO (02/06/2016)
   **TEORÍA**
-    Planificación de Procesos
+  * Planificación de Procesos
   
   **PRÁCTICA**
-    Manejo de procesos mediante la linea de comandos (top, htop, kill)
+  * Manejo de procesos mediante la linea de comandos (top, htop, kill)
 
 ### Clase 8 - Introducción a los SO (09/06/2016)
-  Examen      
+  * Examen      
 
 ### Clase 9 - Introducción a los SO (16/06/2016)
   **TEORÍA**
-    4. Administración de memoria
-      Conceptos de memoria
-      Segmentación
+  3. Administración de memoria
+    * Conceptos de memoria
+    * Segmentación
 
   **PRÁCTICA**
-    Gestión de usuarios y grupos
-    Comandos de verificación de espacio en disco (dh, du)
+  * Gestión de usuarios y grupos
+  * Comandos de verificación de espacio en disco (dh, du)
 
 ### Clase 10 - Introducción a los SO (23/06/2016)
   **TEORÍA**
-    Paginación
-    Memoria Virtual
+  * Paginación
+  * Memoria Virtual
+
   **PRÁCTICA**
-    Manejo de permisos de ficheros
+  * Manejo de permisos de ficheros
 
 ### Clase 11 - Introducción a los SO (30/06/2016)
   **TEORÍA**
-    5. Gestión de archivos
-      Estructura de directorios
-      Operaciones con archivos
+  4. Gestión de archivos
+    * Estructura de directorios
+    * Operaciones con archivos
   **PRÁCTICA**
-    Análisis del sistema de ficheros, formatear un sistema de ficheros, partición de sistema swap 
+  * Análisis del sistema de ficheros, formatear un sistema de ficheros, partición de sistema swap 
 
 ### Clase 12 - Introducción a los SO (07/07/2016)
   **TEORÍA**
-    Sistemas de archivos
-    Montaje de directorios
-    Control de acceso
+  * Sistemas de archivos
+  * Montaje de directorios
+  * Control de acceso
+
   **PRÁCTICA**
-    Instalación de Ubuntu y Windows doble booteo
+  * Instalación de Ubuntu y Windows doble booteo
 
 ### Clase 13 - Introducción a los SO (14/07/2016)
   **TEORÍA**
-    6. Virtualización
-      Emulación
-      Virtualización asistida por hardware
-      Paravirtualización
-      Contenedores
+  6. Virtualización
+    * Emulación
+    * Virtualización asistida por hardware
+    * Paravirtualización
+    * Contenedores
 
   **PRÁCTICA**
-    Instalación de Linux Ubuntu en máquina virtual
-
+  * Instalación de Linux Ubuntu en máquina virtual
 
 ### Clase 14 - Introducción a los SO (21/07/2016)
   **PRÁCTICA**
-    Comandos Linux para la red, instalación de programas mediante comandos (apt-get install, update, remove, purge) 
-
+  * Comandos Linux para la red, instalación de programas mediante comandos (apt-get install, update, remove, purge) 
 
 ### Clase 15 - Introducción a los SO (28/07/2016)
   **PRÁCTICA**
-      Instalación y configuración de Windows 10 
+  * Instalación y configuración de Windows 10 
 
 ### Clase 16 - Introducción a los SO (04/08/2016)
 Presentaciones      
