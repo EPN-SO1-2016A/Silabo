@@ -91,7 +91,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
   * La interfaz gráfica de Ubuntu, 
   * Configuración de Ubuntu 
 
-### Clase 3 - Introducción a los SO (05/05/2016)
+### Clase 3 - Núcleo y Administración de Procesos (05/05/2016)
 **TEORÍA**
 * Núcleo de un SO
 * **2. Administración de procesos**
@@ -100,34 +100,37 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 **PRÁCTICA**
   * Introducción a la línea de comandos (comandos básicos, info del sistema, apagado, manuales de ayuda)
 
-### Clase 4 - Introducción a los SO (12/05/2016)
+### Clase 4 - Administración de Procesos (12/05/2016)
 **TEORÍA**
 * Procesos e Hilos
 
 **PRÁCTICA**
   * Gestión de archivos y directorios (mkdir, cd, ls, find, mv, rm, tar)
 
-### Clase 5 - Introducción a los SO (19/05/2016)
+### Clase 5 - Prueba (19/05/2016)
 * Prueba
 
-### Clase 6 - Introducción a los SO (26/05/2016)
+**PRÁCTICA**
+* Revisión de la prueba
+
+### Clase 6 - Administración de Procesos (26/05/2016)
 **TEORÍA**
 * Concurrencia e interbloqueos
 
 **PRÁCTICA**
   * Manipulación de texto, redireccionamiento de E/S, Tuberias
 
-### Clase 7 - Introducción a los SO (02/06/2016)
+### Clase 7 - Administración de Procesos (02/06/2016)
 **TEORÍA**
 * Planificación de Procesos
   
 **PRÁCTICA**
   * Manejo de procesos mediante la linea de comandos (top, htop, kill)
 
-### Clase 8 - Introducción a los SO (09/06/2016)
+### Clase 8 - Examen B1 (09/06/2016)
 * Examen      
 
-### Clase 9 - Introducción a los SO (16/06/2016)
+### Clase 9 - Administración de memoria (16/06/2016)
 **TEORÍA**
 * **3. Administración de memoria**
   * Conceptos de memoria
@@ -137,7 +140,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
   * Gestión de usuarios y grupos
   * Comandos de verificación de espacio en disco (dh, du)
 
-### Clase 10 - Introducción a los SO (23/06/2016)
+### Clase 10 - Administración de memoria (23/06/2016)
 **TEORÍA**
 * Paginación
 * Memoria Virtual
@@ -145,7 +148,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 **PRÁCTICA**
   * Manejo de permisos de ficheros
 
-### Clase 11 - Introducción a los SO (30/06/2016)
+### Clase 11 - Gestión de archivos (30/06/2016)
 **TEORÍA**
 * **4. Gestión de archivos**
   * Estructura de directorios
@@ -154,7 +157,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 **PRÁCTICA**
   * Análisis del sistema de ficheros, formatear un sistema de ficheros, partición de sistema swap 
 
-### Clase 12 - Introducción a los SO (07/07/2016)
+### Clase 12 - Gestión de archivos (07/07/2016)
 **TEORÍA**
 * Sistemas de archivos
 * Montaje de directorios
@@ -163,7 +166,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 **PRÁCTICA**
   * Instalación de Ubuntu y Windows doble booteo
 
-### Clase 13 - Introducción a los SO (14/07/2016)
+### Clase 13 - Virtualización (14/07/2016)
 **TEORÍA**
 * **5. Virtualización**
   * Emulación
@@ -174,21 +177,21 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 **PRÁCTICA**
   * Instalación de Linux Ubuntu en máquina virtual
 
-### Clase 14 - Introducción a los SO (21/07/2016)
+### Clase 14 - Comandos Linux para la red (21/07/2016)
 **PRÁCTICA**
   * Comandos Linux para la red, instalación de programas mediante comandos (apt-get install, update, remove, purge) 
 
-### Clase 15 - Introducción a los SO (28/07/2016)
+### Clase 15 - Windows 10 (28/07/2016)
 **PRÁCTICA**
   * Instalación y configuración de Windows 10 
 
-### Clase 16 - Introducción a los SO (04/08/2016)
+### Clase 16 - Presentación trabajos finales (04/08/2016)
 * Presentaciones      
 
-### Clase 17 - Introducción a los SO (11/08/2016)
+### Clase 17 - Presentación trabajos finales (11/08/2016)
 * Presentaciones      
 
-### Clase 18 - Introducción a los SO (18/08/2016)
+### Clase 18 - Examen B2 (18/08/2016)
 * Examen      
 
 ## Deberes/Proyectos
