@@ -33,36 +33,36 @@ El curso estará divido en 3 partes principales: Introducción a PHP y MySQL, De
 
 1. Introducción
   ¿Qué es un SO?
-  Funciones y objetivos
-  Evolución
-  Relación con el hardware
-  Núcleo de un SO
+  * Funciones y objetivos
+  * Evolución
+  * Relación con el hardware
+  * Núcleo de un SO
 2. Administración de procesos
-  Estados de un proceso
-  Procesos e Hilos
-  Concurrencia
-  Interbloqueos
-  Planificación
+  * Estados de un proceso
+  * Procesos e Hilos
+  * Concurrencia
+  * Interbloqueos
+  * Planificación
 4. Administración de memoria
-  Conceptos de memoria
-  Segmentación
-  Paginación
-  Memoria Virtual
+  * Conceptos de memoria
+  * Segmentación
+  * Paginación
+  * Memoria Virtual
 5. Gestión de archivos
-  Estructura de directorios
-  Operaciones con archivos
-  Sistemas de archivos
-  Montaje de directorios
-  Control de acceso
+  * Estructura de directorios
+  * Operaciones con archivos
+  * Sistemas de archivos
+  * Montaje de directorios
+  * Control de acceso
 6. Virtualización
-  Emulación
-  Virtualización asistida por hardware
-  Paravirtualización
-  Contenedores
+  * Emulación
+  * Virtualización asistida por hardware
+  * Paravirtualización
+  * Contenedores
 7. Instalación y configuración de Sistemas Operativos
-  Particiones de discos
-  Copias de Seguridad
-  Doble booteo
+  * Particiones de discos
+  * Copias de Seguridad
+  * Doble booteo
 
 ## Comunicación
 **Para asegurar una respuesta rápida a sus preguntas, utilizaremos SLACK, recuerden que estamos utilizando el aprendizaje colaborativo por lo tanto cualquiera de ustedes puede responder las dudas de sus compañeros.**
@@ -76,15 +76,15 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 **Todo el material utilizado en las clases se encontrará [aquí](https://github.com/EPN-SO1-2016A).**
 
 ### Clase 1 - Introducción (21/04/2016)
-  Introducción a la materia y explicación de la metodología de trabajo.
+  * Introducción a la materia y explicación de la metodología de trabajo.
 
 ### Clase 2 - Introducción a los SO (28/04/2016)
   **TEORIA**
-    1. Introducción
-    ¿Qué es un SO?
-    Funciones y objetivos
-    Evolución
-    Relación con el hardware
+  1. Introducción
+  * ¿Qué es un SO?
+  * Funciones y objetivos
+  * Evolución
+  * Relación con el hardware
 
   **PRÁCTICA**
     La interfaz gráfica de Ubuntu, 
