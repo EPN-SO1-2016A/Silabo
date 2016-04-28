@@ -78,7 +78,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 ### Clase 1 - Introducción (21/04/2016)
   * Introducción a la materia y explicación de la metodología de trabajo.
 
-### Clase 2 - Introducción a los SO (28/04/2016)
+### Clase 2 - [Introducción a los SO](https://github.com/EPN-SO1-2016A/Clase-02) (28/04/2016)
 **TEORIA**
 
 * **1. Introducción**
