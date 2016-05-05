@@ -91,20 +91,22 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
   * La interfaz gráfica de Ubuntu, 
   * Configuración de Ubuntu 
 
-### Clase 3 - Núcleo y Administración de Procesos (05/05/2016)
+### Clase 3 - [Núcleo y Administración de Procesos](https://github.com/EPN-SO1-2016A/Clase-03) (05/05/2016)
 **TEORÍA**
 * Núcleo de un SO
 * **2. Administración de procesos**
   * Estados de un proceso
 
 **PRÁCTICA**
-  * Introducción a la línea de comandos (comandos básicos, info del sistema, apagado, manuales de ayuda)
+  * Instalación de Virtualbox y Ubuntu 14.04 LTS
+  * Interfaz Grafica
 
 ### Clase 4 - Administración de Procesos (12/05/2016)
 **TEORÍA**
 * Procesos e Hilos
 
 **PRÁCTICA**
+  * * Introducción a la línea de comandos (comandos básicos, info del sistema, apagado, manuales de ayuda)
   * Gestión de archivos y directorios (mkdir, cd, ls, find, mv, rm, tar)
 
 ### Clase 5 - Prueba (19/05/2016)
