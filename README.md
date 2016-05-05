@@ -99,7 +99,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 
 **PRÁCTICA**
   * Instalación de Virtualbox y Ubuntu 14.04 LTS
-  * Interfaz Grafica
+  * Interfaz Gráfica
 
 ### Clase 4 - Administración de Procesos (12/05/2016)
 **TEORÍA**
