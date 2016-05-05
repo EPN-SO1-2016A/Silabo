@@ -107,7 +107,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 
 **PRÁCTICA**
   * * Introducción a la línea de comandos (comandos básicos, info del sistema, apagado, manuales de ayuda)
-  * Gestión de archivos y directorios (mkdir, cd, ls, find, mv, rm, tar)
+  * Gestión de archivos y directorios (mkdir, cd, ls, mv, rm)
 
 ### Clase 5 - Prueba (19/05/2016)
 * Prueba
