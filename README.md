@@ -183,17 +183,17 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 **PRÁCTICA**
   * Comandos Linux para la red, instalación de programas mediante comandos (apt-get install, update, remove, purge) 
 
-### Clase 15 - Windows 10 (28/07/2016)
+### Clase 15 - Ejercicios de comandos avanzados (28/07/2016)
 **PRÁCTICA**
-  * Instalación y configuración de Windows 10 
+  * Ejercicios de comandos avanzados
 
-### Clase 16 - Presentación trabajos finales (04/08/2016)
+### Clase 16 - Repaso (04/08/2016)
+* Repaso      
+
+### Clase 17 - Examen B2 (11/08/2016)
 * Presentaciones      
 
-### Clase 17 - Presentación trabajos finales (11/08/2016)
-* Presentaciones      
-
-### Clase 18 - Examen B2 (18/08/2016)
+### Clase 18 - Presentación trabajos finales (18/08/2016)
 * Examen      
 
 ## Deberes/Proyectos
