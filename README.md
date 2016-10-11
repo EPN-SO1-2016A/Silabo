@@ -27,58 +27,14 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 * TSI114 Programación estructurada
 
-## Contenidos del Curso
-
-El curso estará divido en 3 partes principales: Introducción a PHP y MySQL, Desarrollo de aplicaciones con Symfony y Desarrollo de páginas web con Wordpress (existe la posibilidad de cambiar Wordpress por Ruby, se aceptará sugerencia de los estudiantes). Entre los temas de la materia se incluye:
-
-1. Introducción
-  ¿Qué es un SO?
-  * Funciones y objetivos
-  * Evolución
-  * Relación con el hardware
-  * Núcleo de un SO
-2. Administración de procesos
-  * Estados de un proceso
-  * Procesos e Hilos
-  * Concurrencia
-  * Interbloqueos
-  * Planificación
-4. Administración de memoria
-  * Conceptos de memoria
-  * Segmentación
-  * Paginación
-  * Memoria Virtual
-5. Gestión de archivos
-  * Estructura de directorios
-  * Operaciones con archivos
-  * Sistemas de archivos
-  * Montaje de directorios
-  * Control de acceso
-6. Virtualización
-  * Emulación
-  * Virtualización asistida por hardware
-  * Paravirtualización
-  * Contenedores
-7. Instalación y configuración de Sistemas Operativos
-  * Particiones de discos
-  * Copias de Seguridad
-  * Doble booteo
-
-## Comunicación
-**Para asegurar una respuesta rápida a sus preguntas, utilizaremos SLACK, recuerden que estamos utilizando el aprendizaje colaborativo por lo tanto cualquiera de ustedes puede responder las dudas de sus compañeros.**
-
-Pueden acceder al canal de comunicación en este link: [so1-esfot.slack.com/](https://so1-esfot.slack.com/)
-
-En la parte izquierda de Slack está la lista de canales, para tener una mejor organización se crearán canales por cada clase. En este canal  **general** hablaremos de cosas que no estén relacionadas directamente con el tema de una semana en específico.
-
 ## Calendario de clases
 
 **Todo el material utilizado en las clases se encontrará [aquí](https://github.com/EPN-SO1-2016A).**
 
-### Clase 1 - Introducción (21/04/2016)
+### Clase 1 - Introducción (11/10/2016)
   * Introducción a la materia y explicación de la metodología de trabajo.
 
-### Clase 2 - [Introducción a los SO](https://github.com/EPN-SO1-2016A/Clase-02) (28/04/2016)
+### Clase 2 - [Introducción a los SO](https://github.com/EPN-SO1-2016A/Clase-02) (18/10/2016)
 **TEORIA**
 
 * **1. Introducción**
@@ -91,7 +47,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
   * La interfaz gráfica de Ubuntu, 
   * Configuración de Ubuntu 
 
-### Clase 3 - [Núcleo y Administración de Procesos](https://github.com/EPN-SO1-2016A/Clase-03) (05/05/2016)
+### Clase 3 - [Núcleo y Administración de Procesos](https://github.com/EPN-SO1-2016A/Clase-03) (25/10/2016)
 **TEORÍA**
 * Núcleo de un SO
 * **2. Administración de procesos**
@@ -101,7 +57,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
   * Instalación de Virtualbox y Ubuntu 14.04 LTS
   * Interfaz Gráfica
 
-### Clase 4 - [Administración de Procesos](https://github.com/EPN-SO1-2016A/Clase-04) (12/05/2016)
+### Clase 4 - [Administración de Procesos](https://github.com/EPN-SO1-2016A/Clase-04) (01/11/2016)
 **TEORÍA**
 * Procesos e Hilos
 
@@ -109,30 +65,30 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
   * * Introducción a la línea de comandos (comandos básicos, info del sistema, apagado, manuales de ayuda)
   * Gestión de archivos y directorios (mkdir, cd, ls, mv, rm)
 
-### Clase 5 - Prueba (19/05/2016)
+### Clase 5 - Prueba (08/11/2016)
 * Prueba
 
 **PRÁCTICA**
 * Revisión de la prueba
 
-### Clase 6 - Administración de Procesos (26/05/2016)
+### Clase 6 - Administración de Procesos (15/11/2016)
 **TEORÍA**
 * Concurrencia e interbloqueos
 
 **PRÁCTICA**
   * Manipulación de texto, redireccionamiento de E/S, Tuberias
 
-### Clase 7 - Administración de Procesos (02/06/2016)
+### Clase 7 - Administración de Procesos (22/11/2016)
 **TEORÍA**
 * Planificación de Procesos
   
 **PRÁCTICA**
   * Manejo de procesos mediante la linea de comandos (top, htop, kill)
 
-### Clase 8 - Examen B1 (09/06/2016)
+### Clase 8 - Examen B1 (29/11/2016)
 * Examen      
 
-### Clase 9 - Administración de memoria (16/06/2016)
+### Clase 9 - Administración de memoria (13/12/2016)
 **TEORÍA**
 * **3. Administración de memoria**
   * Conceptos de memoria
@@ -142,7 +98,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
   * Gestión de usuarios y grupos
   * Comandos de verificación de espacio en disco (dh, du)
 
-### Clase 10 - Administración de memoria (23/06/2016)
+### Clase 10 - Administración de memoria (20/12/2016)
 **TEORÍA**
 * Paginación
 * Memoria Virtual
@@ -150,7 +106,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 **PRÁCTICA**
   * Manejo de permisos de ficheros
 
-### Clase 11 - Gestión de archivos (30/06/2016)
+### Clase 11 - Gestión de archivos (03/12/2016)
 **TEORÍA**
 * **4. Gestión de archivos**
   * Estructura de directorios
@@ -159,7 +115,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 **PRÁCTICA**
   * Análisis del sistema de ficheros, formatear un sistema de ficheros, partición de sistema swap 
 
-### Clase 12 - Gestión de archivos (07/07/2016)
+### Clase 12 - Gestión de archivos (10/01/2017)
 **TEORÍA**
 * Sistemas de archivos
 * Montaje de directorios
@@ -168,7 +124,7 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 **PRÁCTICA**
   * Instalación de Ubuntu y Windows doble booteo
 
-### Clase 13 - Virtualización (14/07/2016)
+### Clase 13 - Virtualización (17/01/2017)
 **TEORÍA**
 * **5. Virtualización**
   * Emulación
@@ -179,22 +135,20 @@ En la parte izquierda de Slack está la lista de canales, para tener una mejor o
 **PRÁCTICA**
   * Instalación de Linux Ubuntu en máquina virtual
 
-### Clase 14 - Comandos Linux para la red (21/07/2016)
+### Clase 14 - Comandos Linux para la red (24/01/2017)
 **PRÁCTICA**
   * Comandos Linux para la red, instalación de programas mediante comandos (apt-get install, update, remove, purge) 
 
-### Clase 15 - Ejercicios de comandos avanzados (28/07/2016)
+### Clase 15 - Ejercicios de comandos avanzados (31/01/2017)
 **PRÁCTICA**
   * Ejercicios de comandos avanzados
 
-### Clase 16 - Repaso (04/08/2016)
+### Clase 16 - Repaso (07/02/2017)
 * Repaso      
 
-### Clase 17 - Examen B2 (11/08/2016)
+### Clase 17 - Examen B2 (14/02/2017)
 * Presentaciones      
-
-### Clase 18 - Presentación trabajos finales (18/08/2016)
-* Examen      
+  
 
 ## Deberes/Proyectos
 
@@ -207,9 +161,9 @@ Todos los deberes deberán ser entregados **únicamente** vía [Turnitin](https:
 
 * Ingresar a [PeerWise](https://peerwise.cs.auckland.ac.nz)
 * Registrase con el usuario del tipo `nombreapellido`
-* **ID del curso:** 13124, su identificador es su email personal registrado en el SAEw.
-* Realizar al menos 5 preguntas en PeerWise relacionadas con la materia. Preguntas de opción múltiple. Pueden ser ejercicios similares a los deberes o videos.
-* Responder al menos 5 preguntas de sus compañeros.
+* **ID del curso:** 14062, su identificador es su email personal registrado en el SAEw.
+* Realizar al menos 5 preguntas semanales en PeerWise relacionadas con la materia. Preguntas de opción múltiple. Pueden ser ejercicios similares a los deberes o videos.
+* Responder al menos 5 preguntas semanales de sus compañeros.
 * La nota será definida según la participación que hayan tenido en PeerWise, el tipo de preguntas que hayan realizado y el número de preguntas que hayan respondido y la dificultad de las preguntas respondidas.
 
 ## Calificaciones
