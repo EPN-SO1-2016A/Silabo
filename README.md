@@ -1,11 +1,10 @@
-# Sílabo para Sistemas Operativos 1 ESFOT-EPN 2016A
+# Sílabo para Sistemas Operativos 1 ESFOT-EPN 2016B
 
 * **Materia:** ASI_TSI213 Sistemas Operativos 1
-* **Lugar:** TECET14
-* **Horario:**  Jueves de 7:00 a 10:00
+* **Lugar:** TECET14 y TECET13
+* **Horario:**  Martes de 7:00 a 10:00
 * **Profesor:** Edwin Salvador, [edwin.salvador@epn.edu.ec](mailto:edwin.salvador@epn.edu.ec)
-* Pueden revisar el sílabo y colaborar mediante la creación de [issues](https://github.com/EPN-ANP-2016A/silabo/issues)
-* Para asegurar una respuesta rápida a sus preguntas, pueden ver las instrucciones en la sección [Comunicación](#comunicacion).
+* Pueden revisar el sílabo y colaborar mediante la creación de [issues](https://github.com/EPN-ANP-2016B/silabo/issues)
 También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordinar una hora de reunión.
 
 ## Objetivos del Curso
@@ -29,12 +28,12 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 ## Calendario de clases
 
-**Todo el material utilizado en las clases se encontrará [aquí](https://github.com/EPN-SO1-2016A).**
+**Todo el material utilizado en las clases se encontrará [aquí](https://github.com/EPN-SO1-2016B).**
 
 ### Clase 1 - Introducción (11/10/2016)
   * Introducción a la materia y explicación de la metodología de trabajo.
 
-### Clase 2 - [Introducción a los SO](https://github.com/EPN-SO1-2016A/Clase-02) (18/10/2016)
+### Clase 2 - [Introducción a los SO](https://github.com/EPN-SO1-2016B/Clase-02) (18/10/2016)
 **TEORIA**
 
 * **1. Introducción**
@@ -47,7 +46,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * La interfaz gráfica de Ubuntu, 
   * Configuración de Ubuntu 
 
-### Clase 3 - [Núcleo y Administración de Procesos](https://github.com/EPN-SO1-2016A/Clase-03) (25/10/2016)
+### Clase 3 - [Núcleo y Administración de Procesos](https://github.com/EPN-SO1-2016B/Clase-03) (25/10/2016)
 **TEORÍA**
 * Núcleo de un SO
 * **2. Administración de procesos**
@@ -57,7 +56,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * Instalación de Virtualbox y Ubuntu 14.04 LTS
   * Interfaz Gráfica
 
-### Clase 4 - [Administración de Procesos](https://github.com/EPN-SO1-2016A/Clase-04) (01/11/2016)
+### Clase 4 - [Administración de Procesos](https://github.com/EPN-SO1-2016B/Clase-04) (01/11/2016)
 **TEORÍA**
 * Procesos e Hilos
 
