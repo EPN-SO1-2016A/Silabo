@@ -56,7 +56,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * Instalación de Virtualbox y Ubuntu 14.04 LTS
   * Interfaz Gráfica
 
-### Clase 4 - [Administración de Procesos](https://github.com/EPN-SO1-2016B/Clase-04) (01/11/2016)
+### Clase 4 - [Administración de Procesos](https://github.com/EPN-SO1-2016B/Class-04) (01/11/2016)
 **TEORÍA**
 * Procesos e Hilos
 
