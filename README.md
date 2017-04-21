@@ -1,10 +1,10 @@
-# Sílabo para Sistemas Operativos 1 ESFOT-EPN 2016B
+# Sílabo para Sistemas Operativos 1 ESFOT-EPN 2017A
 
 * **Materia:** ASI_TSI213 Sistemas Operativos 1
-* **Lugar:** TECET14 y TECET13
-* **Horario:**  Martes de 7:00 a 10:00
+* **Lugar:** TECET15
+* **Horario:**  Viernes de 7:00 a 10:00
 * **Profesor:** Edwin Salvador, [edwin.salvador@epn.edu.ec](mailto:edwin.salvador@epn.edu.ec)
-* Pueden revisar el sílabo y colaborar mediante la creación de [issues](https://github.com/EPN-ANP-2016B/silabo/issues)
+* Pueden revisar el sílabo y colaborar mediante la creación de [issues](https://github.com/EPN-ANP-2017A/silabo/issues)
 También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordinar una hora de reunión.
 
 ## Objetivos del Curso
@@ -28,25 +28,28 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 ## Calendario de clases
 
-**Todo el material utilizado en las clases se encontrará [aquí](https://github.com/EPN-SO1-2016B).**
+**Todo el material utilizado en las clases se encontrará [aquí](https://github.com/EPN-SO1-2017A).**
 
-### Clase 1 - Introducción (11/10/2016)
+### Clase 1 - Introducción (21/04/2017)
   * Introducción a la materia y explicación de la metodología de trabajo.
+  * **1. Introducción**
+    * Relación de un SO con el hardware
 
-### Clase 2 - [Introducción a los SO](https://github.com/EPN-SO1-2016B/Clase-02) (18/10/2016)
+  * Práctica
+    * Preguntas sobre Windows 10
+
+### Clase 2 - Introducción a los SO (28/04/2017)
 **TEORIA**
 
 * **1. Introducción**
   * ¿Qué es un SO?
   * Funciones y objetivos
   * Evolución
-  * Relación con el hardware
 
 **PRÁCTICA**
-  * La interfaz gráfica de Ubuntu, 
-  * Configuración de Ubuntu 
+  * Ejercicios sobre Windows 10 
 
-### Clase 3 - [Núcleo y Administración de Procesos](https://github.com/EPN-SO1-2016B/Clase-03) (25/10/2016)
+<!-- ### Clase 3 - [Núcleo y Administración de Procesos](https://github.com/EPN-SO1-2017A/Clase-03) (25/10/2016)
 **TEORÍA**
 * Núcleo de un SO
 * **2. Administración de procesos**
@@ -56,7 +59,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * Instalación de Virtualbox y Ubuntu 14.04 LTS
   * Interfaz Gráfica
 
-### Clase 4 - [Administración de Procesos](https://github.com/EPN-SO1-2016B/Class-04) (01/11/2016)
+### Clase 4 - [Administración de Procesos](https://github.com/EPN-SO1-2017A/Class-04) (01/11/2016)
 **TEORÍA**
 * Procesos e Hilos
 
@@ -147,7 +150,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 ### Clase 17 - Examen B2 (14/02/2017)
 * Presentaciones      
-  
+ -->  
 
 ## Deberes/Proyectos
 
@@ -160,7 +163,7 @@ Todos los deberes deberán ser entregados **únicamente** vía [Turnitin](https:
 
 * Ingresar a [PeerWise](https://peerwise.cs.auckland.ac.nz)
 * Registrase con el usuario del tipo `nombreapellido`
-* **ID del curso:** 14062, su identificador es su email personal registrado en el SAEw.
+* **ID del curso:** 15133, su identificador es su email personal registrado en el SAEw.
 * Realizar al menos 5 preguntas semanales en PeerWise relacionadas con la materia. Preguntas de opción múltiple. Pueden ser ejercicios similares a los deberes o videos.
 * Responder al menos 5 preguntas semanales de sus compañeros.
 * La nota será definida según la participación que hayan tenido en PeerWise, el tipo de preguntas que hayan realizado y el número de preguntas que hayan respondido y la dificultad de las preguntas respondidas.
@@ -168,9 +171,9 @@ Todos los deberes deberán ser entregados **únicamente** vía [Turnitin](https:
 ## Calificaciones
 
 * Pruebas parciales              20%
-* Deberes y consultas          20%
-* Participación (Peerwise)   20%
-* Examen                                40%
+* Deberes y consultas          30%
+* Participación (Peerwise)    10%
+* Examen                              40%
 
 ## Bibliografía
 * Wolf, Gunnar (2015), Fundamentos de sistemas operativos – Primera edición. – México D.F. : Universidad. [Descargar](http://sistop.org/pdf/sistemas_operativos.pdf)
